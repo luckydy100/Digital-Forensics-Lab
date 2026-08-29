@@ -1,0 +1,9 @@
+=== DELETED FILE SUMMARY ===
+
+Total deleted files: 4
+
+List of deleted files:
+r/r * 8:	Billing Letter.doc
+r/r * 11:	confirmation.txt
+r/r * 15:	letter1.txt
+r/r * 17:	Regrets.doc

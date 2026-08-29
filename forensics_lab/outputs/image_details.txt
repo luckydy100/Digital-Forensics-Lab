@@ -1,0 +1,4 @@
+Filename: Ch01InChap01.dd
+Size: 1.5M
+Location: /home/kali/forensics_lab
+Date: Fri Aug 28 07:07:14 PM EDT 2026
