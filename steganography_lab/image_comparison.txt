@@ -1,0 +1,7 @@
+=== IMAGE HASH COMPARISON ===
+
+Original Image:
+6508bebb94bd8ec0833b9f85580cda4261d89632ddc89e7f9f7093b5e653c4db  _tower_original_image_for_lab.bmp
+
+Stego Image:
+cbbdf635ced760d26552ebbd1dbe5e7606834558cc26918c6158cf4719919163  tower_stego_lab4.bmp

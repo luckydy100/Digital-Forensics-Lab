@@ -1,0 +1,28 @@
+=== STEGANOGRAPHY EXPLANATION ===
+
+What is Steganography?
+==============================
+
+Steganography is the practice of hiding information within another
+file so that the existence of the hidden information is concealed.
+
+Why It Matters in Digital Forensics:
+====================================
+
+1. Attackers use steganography to hide malicious payloads
+2. Data exfiltration can occur through innocent-looking images
+3. Covert communication channels can be established
+4. Forensic investigators must detect hidden data
+5. Evidence can be hidden in plain sight
+
+Techniques Used:
+=================
+
+- LSB Substitution (hiding data in least significant bits)
+- Insertion (appending data to the end of files)
+- Encryption combined with steganography (Steghide)
+- Metadata manipulation (EXIF data)
+
+Created for: ICDFA Module 8 Lab
+Author: Temidayo Fasinu
+Date: Sat Sep  5 06:29:37 AM EDT 2026

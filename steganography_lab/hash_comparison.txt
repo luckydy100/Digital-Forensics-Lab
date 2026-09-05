@@ -1,0 +1,7 @@
+=== HASH COMPARISON ===
+
+Original secret.txt:
+22406ce89308b66f364e60abf4882b3b9fd9dba177d8a14a33085a3da2ccd235  secret.txt
+
+Extracted secret.txt:
+22406ce89308b66f364e60abf4882b3b9fd9dba177d8a14a33085a3da2ccd235  extracted/extracted_secret.txt
