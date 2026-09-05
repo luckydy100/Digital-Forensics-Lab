@@ -1,0 +1,13 @@
+=== METADATA FINDINGS ===
+
+Software: Adobe Photoshop 21.1 (Macintosh)
+Date: 2020:08:20 10:20:05
+Artist: HOWARD KORN
+Camera: NIKON CORPORATION
+Locations: Baltimore, MD
+Corporate clients mentioned: The Arc Baltimore, The Arc Central Chesapeake Region, The United Way
+
+Items NOT found:
+- GPS coordinates
+- Camera model (only NIKON CORPORATION found)
+- Lens information

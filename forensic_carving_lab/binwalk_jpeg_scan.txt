@@ -1,0 +1,19 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, EXIF standard
+12            0xC             TIFF image data, little-endian offset of first image directory: 8
+26844         0x68DC          Copyright string: "Copyright 1999 Adobe Systems Incorporated"
+
+
+Scan Time:     2026-09-04 5:30:30
+Target File:   /home/kali/forensic_carving_lab/J_ub_law.jpg
+MD5 Checksum:  83a360ac7f7e0ca318e5bfe39f95f137
+Signatures:    436
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JPEG image data, EXIF standard
+12            0xC             TIFF image data, little-endian offset of first image directory: 8
+26844         0x68DC          Copyright string: "Copyright 1999 Adobe Systems Incorporated"
+

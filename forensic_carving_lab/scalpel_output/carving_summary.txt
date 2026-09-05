@@ -1,0 +1,4 @@
+Recovered file types:
+=====================
+     10 jpg
+      2 txt

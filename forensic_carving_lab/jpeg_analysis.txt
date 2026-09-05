@@ -1,0 +1,10 @@
+JPEG Analysis Results:
+=====================
+
+Header Signature (SOI): FF D8 FF E0
+Header bytes: ffd8ffe117f0
+
+Footer Signature (EOI): FF D9
+Footer bytes: fd9
+
+File size: 1692150 bytes

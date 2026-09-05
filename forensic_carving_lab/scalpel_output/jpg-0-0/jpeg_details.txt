@@ -1,0 +1,36 @@
+=== 00000000.jpg ===
+00000000.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 220x220, segment length 16, baseline, precision 8, 360x540, components 3
+597cef9fa6bab3b73312e8e274364b04  00000000.jpg
+
+=== 00000001.jpg ===
+00000001.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 220x220, segment length 16, baseline, precision 8, 360x540, components 3
+597cef9fa6bab3b73312e8e274364b04  00000001.jpg
+
+=== 00000002.jpg ===
+00000002.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 618x927, components 3
+e833e245176b08a46508e26961116bb4  00000002.jpg
+
+=== 00000003.jpg ===
+00000003.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 120x120, segment length 16, comment: "Software: Snipaste", baseline, precision 8, 1667x762, components 3
+9d09c214f6fa49ad4b39fff15e22af04  00000003.jpg
+
+=== 00000004.jpg ===
+00000004.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 120x120, segment length 16, comment: "Software: Snipaste", baseline, precision 8, 604x158, components 3
+3dcb6a4ca242b85d904da775fcd8a4b1  00000004.jpg
+
+=== 00000005.jpg ===
+00000005.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 96x96, segment length 16, baseline, precision 8, 256x144, components 3
+d09b9174b6bcaf09bcf84724509066a2  00000005.jpg
+
+=== 00000006.jpg ===
+00000006.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 96x96, segment length 16, baseline, precision 8, 256x144, components 3
+3e1ad4207d62d924fb6bc5473d842e13  00000006.jpg
+
+=== 00000007.jpg ===
+00000007.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 100x100, segment length 16, progressive, precision 8, 750x1334, components 3
+a4fc766ba1a38f36263d0bfe6fc0ac1d  00000007.jpg
+
+=== 00000008.jpg ===
+00000008.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 100x100, segment length 16, progressive, precision 8, 750x1334, components 3
+ca42511022040f8739f8b2a8445c81b6  00000008.jpg
+

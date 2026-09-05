@@ -1,0 +1,265 @@
+ExifTool Version Number         : 13.55
+File Name                       : J_ub_law.jpg
+Directory                       : .
+File Size                       : 1692 kB
+File Modification Date/Time     : 2026:09:04 8:06:37-04:00
+File Access Date/Time           : 2026:09:04 8:06:38-04:00
+File Inode Change Date/Time     : 2026:09:04 8:06:37-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Little-endian (Intel, II)
+Photometric Interpretation      : RGB
+Make                            : NIKON CORPORATION
+Camera Model Name               : NIKON D4
+Orientation                     : Horizontal (normal)
+Samples Per Pixel               : 3
+X Resolution                    : 300
+Y Resolution                    : 300
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop 21.1 (Macintosh)
+Modify Date                     : 2020:08:20 10:20:05
+Copyright                       : HOWARD KORN
+XP Keywords                     : 2013, campus, Merrick School of Business
+Exposure Time                   : 8
+F Number                        : 11.0
+Exposure Program                : Manual
+ISO                             : 200
+Sensitivity Type                : Recommended Exposure Index
+Exif Version                    : 0221
+Date/Time Original              : 2013:10:08 18:56:21
+Create Date                     : 2013:10:08 18:56:21
+Shutter Speed Value             : 8
+Aperture Value                  : 11.0
+Exposure Compensation           : 0
+Max Aperture Value              : 2.8
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Flash                           : No Flash
+Focal Length                    : 20.0 mm
+Sub Sec Time Original           : 80
+Color Space                     : Uncalibrated
+Exif Image Width                : 1920
+Exif Image Height               : 1080
+Focal Plane X Resolution        : 1368.888885
+Focal Plane Y Resolution        : 1368.888885
+Focal Plane Resolution Unit     : cm
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+CFA Pattern                     : [Red,Green][Green,Blue]
+Custom Rendered                 : Normal
+Exposure Mode                   : Manual
+White Balance                   : Auto
+Digital Zoom Ratio              : 1
+Focal Length In 35mm Format     : 20 mm
+Scene Capture Type              : Standard
+Gain Control                    : None
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Subject Distance Range          : Unknown
+Serial Number                   : 2027750
+Lens Info                       : 17-35mm f/2.8
+Lens Model                      : 17.0-35.0 mm f/2.8
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 1198
+Thumbnail Length                : 4934
+Current IPTC Digest             : 70e1212f6f80a22b8acca88b2b4633ef
+Envelope Record Version         : 4
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Time Created                    : 00:00:00
+Keywords                        : 2013, campus, Merrick School of Business
+Copyright Notice                : HOWARD KORN
+IPTC Digest                     : 70e1212f6f80a22b8acca88b2b4633ef
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : Law_1_zoom
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 4934 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2020
+Photoshop Quality               : 12
+Photoshop Format                : Standard
+XMP Toolkit                     : Adobe XMP Core 6.0-c002 79.164352, 2020/01/30-15:50:38
+Approximate Focus Distance      : infinity
+Image Number                    : 115422
+Lens                            : 17.0-35.0 mm f/2.8
+Format                          : image/jpeg
+Date Created                    : 2013:10:08
+Legacy IPTC Digest              : 5E379AE71DB032222FA2DE651E47F460
+Color Mode                      : RGB
+ICC Profile Name                : Adobe RGB (1998)
+Creator Tool                    : NIKON D4 Ver.1.01
+Label                           : Approved
+Metadata Date                   : 2020:08:20 10:20:05-04:00
+Rating                          : 0
+Document ID                     : adobe:docid:photoshop:307cd9db-3a87-6148-9874-c6730fd42952
+Instance ID                     : xmp.iid:9e7f6b27-04e9-43e7-ae79-c3f2fb9c2ac9
+Original Document ID            : B04B02E367C62737F8E78649729D6364
+Already Applied                 : True
+Auto Lateral CA                 : 0
+Auto White Version              : 134348800
+Blacks 2012                     : 0
+Blue Hue                        : 0
+Blue Saturation                 : 0
+Camera Profile                  : Embedded
+Camera Profile Digest           : 54650A341B5B5CCAE8442D0B43A92BCE
+Clarity 2012                    : 0
+Color Noise Reduction           : 0
+Contrast 2012                   : 0
+Convert To Grayscale            : False
+Defringe Green Amount           : 0
+Defringe Green Hue Hi           : 60
+Defringe Green Hue Lo           : 40
+Defringe Purple Amount          : 0
+Defringe Purple Hue Hi          : 70
+Defringe Purple Hue Lo          : 30
+Exposure 2012                   : 0.00
+Grain Amount                    : 0
+Green Hue                       : 0
+Green Saturation                : 0
+Has Crop                        : False
+Has Settings                    : True
+Highlights 2012                 : 0
+Hue Adjustment Aqua             : 0
+Hue Adjustment Blue             : 0
+Hue Adjustment Green            : 0
+Hue Adjustment Magenta          : 0
+Hue Adjustment Orange           : 0
+Hue Adjustment Purple           : 0
+Hue Adjustment Red              : 0
+Hue Adjustment Yellow           : 0
+Incremental Temperature         : 0
+Incremental Tint                : 0
+Lens Manual Distortion Amount   : 0
+Lens Profile Enable             : 0
+Lens Profile Setup              : LensDefaults
+Luminance Adjustment Aqua       : 0
+Luminance Adjustment Blue       : 0
+Luminance Adjustment Green      : 0
+Luminance Adjustment Magenta    : 0
+Luminance Adjustment Orange     : 0
+Luminance Adjustment Purple     : 0
+Luminance Adjustment Red        : 0
+Luminance Adjustment Yellow     : 0
+Luminance Smoothing             : 0
+Parametric Darks                : 0
+Parametric Highlight Split      : 75
+Parametric Highlights           : 0
+Parametric Lights               : 0
+Parametric Midtone Split        : 50
+Parametric Shadow Split         : 25
+Parametric Shadows              : 0
+Perspective Aspect              : 0
+Perspective Horizontal          : 0
+Perspective Rotate              : 0.0
+Perspective Scale               : 100
+Perspective Upright             : Off
+Perspective Vertical            : 0
+Post Crop Vignette Amount       : 0
+Process Version                 : 6.7
+Raw File Name                   : UB_10-8-13_cam2_0117.jpg
+Red Hue                         : 0
+Red Saturation                  : 0
+Saturation Adjustment Aqua      : 0
+Saturation Adjustment Blue      : 0
+Saturation Adjustment Green     : 0
+Saturation Adjustment Magenta   : 0
+Saturation Adjustment Orange    : 0
+Saturation Adjustment Purple    : 0
+Saturation Adjustment Red       : 0
+Saturation Adjustment Yellow    : 0
+Shadow Tint                     : 0
+Shadows 2012                    : 0
+Sharpen Detail                  : 25
+Sharpen Edge Masking            : 0
+Sharpen Radius                  : +1.0
+Split Toning Balance            : 0
+Split Toning Highlight Hue      : 0
+Split Toning Highlight Saturation: 0
+Split Toning Shadow Hue         : 0
+Split Toning Shadow Saturation  : 0
+Tone Curve Name 2012            : Linear
+Version                         : 8.3
+Vibrance                        : 0
+Vignette Amount                 : 0
+Whites 2012                     : 0
+Subject                         : 2013, campus, Merrick School of Business
+Rights                          : HOWARD KORN
+Document Ancestors              : xmp.did:06ab5409-2ebd-4c03-baf5-f89b4f75bfd8, xmp.did:2a631a83-e4bc-4230-8840-df530622639a, xmp.did:3f5caca0-0a1e-4bb0-8462-dfea4890eb0b, xmp.did:7075c817-dc69-4d23-97d6-1bd5f131bb32, xmp.did:75cc0993-7f15-4d11-b93a-a53303a091ac, xmp.did:76669c34-e56c-4d28-bc02-178648ca0196, xmp.did:832e427e-a336-4cc0-bf14-c2299c4241cd, xmp.did:87af8fa8-64b7-43ee-ac50-b52afbb9b146, xmp.did:8afc185c-1765-4fcc-b453-1c4c80f9d2a6, xmp.did:8b0f1ee2-601a-4d87-957f-5863de39e49f, xmp.did:8f102b47-38ba-4077-95c0-f2287c40f7e4, xmp.did:9499cd4d-5792-4540-b151-ad9f3c59c378, xmp.did:97222358-adf4-4ce6-880a-79e16f0dc572, xmp.did:a5eca283-b0b9-4d33-a6d1-93d705c12ae9, xmp.did:c584c034-b005-4c68-9f01-4cab2a244398
+Derived From Instance ID        : xmp.iid:0bb33b69-4279-4f45-afce-49859bf97ea8
+Derived From Document ID        : adobe:docid:photoshop:b18fc22b-99c8-ef45-ac08-24d7d9c9349d
+Derived From Original Document ID: B04B02E367C62737F8E78649729D6364
+History Action                  : saved, saved, derived, saved, saved, converted, derived, saved, derived, saved, derived, saved, saved, converted, derived, saved, saved, converted, derived, saved, saved, converted, derived, saved, saved, converted, derived, saved, saved
+History Changed                 : /metadata, /metadata, /, /, /, /, /, /, /, /, /, /, /, /, /, /
+History Instance ID             : xmp.iid:9aba23ee-4f9e-43f2-b34e-ed65450cccbe, xmp.iid:bee20414-de9e-4677-a49b-4a28a50c1562, xmp.iid:46ece397-86be-4881-92c4-daa7fb69dc2a, xmp.iid:6178059007206811822A847FD72F2DE8, xmp.iid:6278059007206811822A847FD72F2DE8, xmp.iid:6f2a9c87-e723-419d-9d9b-53ebfbe40a23, xmp.iid:E8D48D1A11206811822AFE776815FBC7, xmp.iid:5cbdcb11-a9ef-4658-9210-97c98ea2dae3, xmp.iid:bab66396-fda3-42d1-8b97-da85ea2e36fb, xmp.iid:fe897b17-bbe6-4cef-83a4-fedc4accf979, xmp.iid:ebf6b840-6bea-4644-9e49-50909da8d7db, xmp.iid:66e9f972-24cb-4805-931d-233583583614, xmp.iid:981ec349-e69e-479f-b5d4-600905e0b0e6, xmp.iid:0bb33b69-4279-4f45-afce-49859bf97ea8, xmp.iid:3f0c89f0-f710-45fe-a8f8-01d5e14cc22f, xmp.iid:9e7f6b27-04e9-43e7-ae79-c3f2fb9c2ac9
+History Software Agent          : Adobe Photoshop Camera Raw 8.3 (Macintosh), Adobe Photoshop Camera Raw 8.3 (Macintosh), Adobe Photoshop Camera Raw 8.3 (Macintosh), Adobe Photoshop CS6 (Macintosh), Adobe Photoshop CS6 (Macintosh), Adobe Photoshop Camera Raw 8.3 (Macintosh), Adobe Photoshop CS6 (Macintosh), Adobe Photoshop 21.1 (Macintosh), Adobe Photoshop 21.1 (Macintosh), Adobe Photoshop 21.1 (Macintosh), Adobe Photoshop 21.1 (Macintosh), Adobe Photoshop 21.1 (Macintosh), Adobe Photoshop 21.1 (Macintosh), Adobe Photoshop 21.1 (Macintosh), Adobe Photoshop 21.1 (Macintosh), Adobe Photoshop 21.1 (Macintosh)
+History When                    : 2014:01:14 11:33:03-05:00, 2014:01:14 12:04:40-05:00, 2014:01:14 12:06:07-05:00, 2014:01:14 12:06:09-05:00, 2014:01:14 12:06:09-05:00, 2014:01:15 11:32:49-05:00, 2014:01:15 11:34:04-05:00, 2020:05:26 15:08:43-04:00, 2020:05:26 15:08:43-04:00, 2020:05:27 16:14:03-04:00, 2020:05:27 16:14:03-04:00, 2020:07:02 10:21:18-04:00, 2020:07:02 10:21:18-04:00, 2020:08:17 14:09:42-04:00, 2020:08:17 14:09:42-04:00, 2020:08:20 10:20:05-04:00
+History Parameters              : converted from image/x-nikon-nef to image/tiff, from image/tiff to image/jpeg, converted from image/tiff to image/jpeg, converted from image/jpeg to image/tiff, converted from image/tiff to image/jpeg, from image/jpeg to application/vnd.adobe.photoshop, converted from image/jpeg to application/vnd.adobe.photoshop, from application/vnd.adobe.photoshop to image/jpeg, converted from application/vnd.adobe.photoshop to image/jpeg, from image/jpeg to application/vnd.adobe.photoshop, converted from image/jpeg to application/vnd.adobe.photoshop, from application/vnd.adobe.photoshop to image/jpeg, converted from application/vnd.adobe.photoshop to image/jpeg
+Tone Curve PV2012               : 0, 0, 255, 255
+Tone Curve PV2012 Blue          : 0, 0, 255, 255
+Tone Curve PV2012 Green         : 0, 0, 255, 255
+Tone Curve PV2012 Red           : 0, 0, 255, 255
+Hierarchical Subject            : Schools|Merrick School of Business
+Profile CMM Type                : Adobe Systems Inc.
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1999:06:03 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : none
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Adobe Systems Inc.
+Profile ID                      : 0
+Profile Copyright               : Copyright 1999 Adobe Systems Incorporated
+Profile Description             : Adobe RGB (1998)
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Tone Reproduction Curve     : (Binary data 14 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 14 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 14 bytes, use -b option to extract)
+Red Matrix Column               : 0.60974 0.31111 0.01947
+Green Matrix Column             : 0.20528 0.62567 0.06087
+Blue Matrix Column              : 0.14919 0.06322 0.74457
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 1920
+Image Height                    : 1080
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Aperture                        : 11.0
+Image Size                      : 1920x1080
+Megapixels                      : 2.1
+Scale Factor To 35 mm Equivalent: 1.0
+Shutter Speed                   : 8
+Date/Time Original              : 2013:10:08 18:56:21.80
+Thumbnail Image                 : (Binary data 4934 bytes, use -b option to extract)
+Date/Time Created               : 2013:10:08 00:00:00
+Circle Of Confusion             : 0.030 mm
+Depth Of Field                  : inf (1.21 m - inf)
+Field Of View                   : 84.0 deg
+Focal Length 35mm Equiv         : 20.0 mm (35 mm equivalent: 20.0 mm)
+Hyperfocal Distance             : 1.21 m
+Light Value                     : 2.9
+Lens ID                         : AF-S Nikkor 17-35mm f/2.8D IF-ED

@@ -1,0 +1,7 @@
+=== TSK ANALYSIS ===
+
+Image: Ch01InChap01.dd
+Image type: Ch01InChap01.dd: DOS/MBR boot sector, code offset 0x34+2, OEM-ID ",'k0nIHC" cached by Windows 9M, root entries 224, sectors 2880 (volumes <=32 MB), sectors/FAT 9, sectors/track 18, dos < 4.0 BootSector (0), FAT (12 bit by descriptor+sectors), followed by FAT
+Partition scheme: 0 partitions
+
+Key Findings:

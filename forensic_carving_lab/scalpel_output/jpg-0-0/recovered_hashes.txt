@@ -1,0 +1,55 @@
+=== RECOVERED JPEG HASHES ===
+--- 00000000.jpg ---
+597cef9fa6bab3b73312e8e274364b04  00000000.jpg
+eee248644fe8235ea159514fbe1518af8cb269cf1f76ddba1dfb3a6d94092f24  00000000.jpg
+File type: 00000000.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 220x220, segment length 16, baseline, precision 8, 360x540, components 3
+Size: 85046 bytes
+
+--- 00000001.jpg ---
+597cef9fa6bab3b73312e8e274364b04  00000001.jpg
+eee248644fe8235ea159514fbe1518af8cb269cf1f76ddba1dfb3a6d94092f24  00000001.jpg
+File type: 00000001.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 220x220, segment length 16, baseline, precision 8, 360x540, components 3
+Size: 85046 bytes
+
+--- 00000002.jpg ---
+e833e245176b08a46508e26961116bb4  00000002.jpg
+380d8c821e6490b84a4391f284a3b58799cb817d769eb6b25d381f3d21e503c4  00000002.jpg
+File type: 00000002.jpg: JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 618x927, components 3
+Size: 99347 bytes
+
+--- 00000003.jpg ---
+9d09c214f6fa49ad4b39fff15e22af04  00000003.jpg
+bf5f3e388d9f7b89a2726be0ff6414fcbfa9e463f46c5d82e327eab179998d40  00000003.jpg
+File type: 00000003.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 120x120, segment length 16, comment: "Software: Snipaste", baseline, precision 8, 1667x762, components 3
+Size: 239079 bytes
+
+--- 00000004.jpg ---
+3dcb6a4ca242b85d904da775fcd8a4b1  00000004.jpg
+064063ad3bb8c9fd7a8e7c59c23e4167fa565728e63a0bff76ba477dab5ceebd  00000004.jpg
+File type: 00000004.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 120x120, segment length 16, comment: "Software: Snipaste", baseline, precision 8, 604x158, components 3
+Size: 13715 bytes
+
+--- 00000005.jpg ---
+d09b9174b6bcaf09bcf84724509066a2  00000005.jpg
+fb11862200a03ac3d8a88ff140d8410dda8cd5425d00baef0149b3db58a3ddb4  00000005.jpg
+File type: 00000005.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 96x96, segment length 16, baseline, precision 8, 256x144, components 3
+Size: 2946 bytes
+
+--- 00000006.jpg ---
+3e1ad4207d62d924fb6bc5473d842e13  00000006.jpg
+2226c9e063f056b3e5a94dbcbc6bd8936ae9d8ef6e0fbcca0592897711b80a42  00000006.jpg
+File type: 00000006.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 96x96, segment length 16, baseline, precision 8, 256x144, components 3
+Size: 2268 bytes
+
+--- 00000007.jpg ---
+a4fc766ba1a38f36263d0bfe6fc0ac1d  00000007.jpg
+34a35a20601287ba5ab169600b75df3e1a5c18321e5240e279c10f376f453450  00000007.jpg
+File type: 00000007.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 100x100, segment length 16, progressive, precision 8, 750x1334, components 3
+Size: 99277 bytes
+
+--- 00000008.jpg ---
+ca42511022040f8739f8b2a8445c81b6  00000008.jpg
+f9460de5d22cc0d53a371d351bbaa29c73e2c52cb75a0543c181b805f456997c  00000008.jpg
+File type: 00000008.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 100x100, segment length 16, progressive, precision 8, 750x1334, components 3
+Size: 292225 bytes
+
